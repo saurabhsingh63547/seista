@@ -1,0 +1,167 @@
+
+.back{ background-color: #0000009c!important;
+      
+     }
+
+.bg{
+ background-image: url(../image/brands.jpg);
+ background-image: fixed;
+ background-size: cover;
+}
+
+.data{
+	font-size: 52px;
+	font-size: fixed;
+	text-transform: uppercase;
+    letter-spacing: 5px;
+    color: white!important;
+    font-family: solid;
+    min-width: 49px;
+    max-width: 100px;
+}
+.sli{
+	color: white!important;
+	font-size: 22px;
+	font-family: solid;
+
+}
+
+.mar{
+	font-family: solid;
+	letter-spacing: 3px;
+	
+}
+
+.bg{
+	background-image: url(../image/background.jpg);
+	background-image: fixed;
+	background-size: cover;
+}
+.stable{
+	color: white;!important;
+	font-size: 38px;
+	font-size: fixed;
+	letter-spacing: 3px;
+	font-family: solid;
+}
+
+.dai{
+	color: white;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-size: fixed;
+	letter-spacing: 3px;
+	font-family: solid;
+	text-align: center;
+
+}
+
+.co{
+	
+	width: 70%;
+	height: 70%;
+	min-width: 50%;
+	min-height: 50%;
+	border-radius: 18px;
+
+}
+.ai{
+	font-size: 30px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+
+}
+.aii{
+	font-size: 25px;
+	letter-spacing: 2px;
+
+}
+
+.abi{
+	font-size: 20px;
+	font-family: solid;
+	letter-spacing: 2px;
+
+}
+
+
+.s{
+	background-image: url(../image/found.jpg);
+	/*background-image: fixed;*/
+	/*background-size: cover;
+	width: 40%;
+	min-width: 40%;
+	max-width: 60%;
+	height: 270px;
+	min-height: 270px;
+	max-height: 320px;
+	border-radius: 10px;*/
+
+}
+
+.sa{
+	
+   color: orange!important;
+   font-size: 30px;
+   font-family:fantasy;
+   text-align: center;
+   position: relative;
+   bottom: 80px;
+   text-transform: uppercase;
+
+}
+
+.ceo{
+	font-size: 17px;
+	font-family: solid;
+    text-align: center;
+    position: relative;
+    bottom: 84px;
+    color: white;
+    text-transform: uppercase;
+
+}
+.FOOT{
+	color: orange;
+	font-size: 20px;
+	letter-spacing: 3px;
+	font-family: solid;
+	border-radius: 126px;
+	min-width: 18%;
+	max-width: 68%;
+	width: fixed;
+}
+
+.te{
+	font-size: 26px;
+	letter-spacing: 5px;
+	font-family: solid;
+	color: orange!important;
+	text-align: center;
+
+}
+.tex{
+	font-size: 22px;
+	letter-spacing: 4px;
+	color: black;
+	font-family: solid;
+
+}
+.bz{
+	background: black;
+}
+
+.last{
+	color: white;
+	letter-spacing: 3px;
+	font-size: 13px;
+	font-family: solid;
+	text-align: center;
+
+}
+
+.depak{
+	width: 100%;
+	height: 78%;
+	
+}

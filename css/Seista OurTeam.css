@@ -1,0 +1,149 @@
+.back{ background-color: #0000009c!important;
+      
+     }
+
+.fit{
+	background-image: url(../image/brands.jpg);
+	background-image: fixed;
+	background-size: cover;
+
+}
+
+.meet{
+	font-display: swap;
+	text-align: center;
+	font-size: 75px;
+	letter-spacing: 4px;
+	color: white!important
+}
+
+
+.found{
+	min-width: 40%;
+	max-width: 100%;
+	size: cover;
+	border-radius: 500px;
+}
+
+.a{
+	font-size: 50px;
+	font-family: solid;
+	letter-spacing: 2px;
+
+}
+.b{
+	font-size: 26px;
+	letter-spacing: 1px;
+	font-family: solid;
+}
+
+.c{
+	font-size: 22px;
+	text-transform: uppercase;
+	font-family: solid;
+	letter-spacing: 3px;
+}
+
+.icon{
+	font-display: swap;
+	background-color: black;
+	color: white;
+	shape-image-threshold: blue;
+}
+.slider{
+	font-size: 40px;
+	font-family: solid;
+	letter-spacing: 3px;
+	color: yellow;
+
+}
+.photo{
+	width: 100%
+}
+
+.imag{
+	float: left;
+	margin: 6px;
+	border-radius: 10px;
+	min-width: 23%;
+	max-width: 40%;
+	min-height: 360px;
+	max-height: 450px;
+    width: 360px;
+	height: 365px;
+	width: fixed;
+	height: fixed;
+
+}
+
+
+.col{
+	background: lightgray;
+}
+.FOOT{
+	color: orange;
+	font-size: 20px;
+	letter-spacing: 3px;
+	font-family: solid;
+	border-radius: 126px;
+	min-width: 18%;
+	max-width: 68%;
+	width: fixed;
+}
+
+.te{
+	font-size: 26px;
+	letter-spacing: 5px;
+	font-family: solid;
+	color: orange!important;
+	text-align: center;
+
+}
+.tex{
+	font-size: 22px;
+	letter-spacing: 4px;
+	color: black;
+	font-family: solid;
+
+}
+.bz{
+	background: black;
+}
+
+.last{
+	color: white;
+	letter-spacing: 3px;
+	font-size: 13px;
+	font-family: solid;
+	text-align: center;
+
+}
+
+.sa{
+	
+   color: orange!important;
+   font-size: 30px;
+   font-family:fantasy;
+   text-align: center;
+   position: relative;
+   bottom: 80px;
+   text-transform: uppercase;
+
+}
+
+.ceo{
+	font-size: 17px;
+	font-family: solid;
+    text-align: center;
+    position: relative;
+    bottom: 84px;
+    color: white;
+    text-transform: uppercase;
+
+}
+
+.depak{
+	width: 100%;
+	height: 78%;
+	
+}

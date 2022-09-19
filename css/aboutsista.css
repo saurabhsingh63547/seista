@@ -1,0 +1,164 @@
+.back{ background-color: #0000009c!important;
+      
+     }
+
+.ra{
+	background-image: url(../image/bg3.JPG);
+	background-image: fixed;
+	background-size: cover;
+
+}
+.story{
+	color: white!important;
+	text-align: justify;
+	font-size: 77px;
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: 3px;
+
+}
+.mar{
+	font-family: solid;
+	letter-spacing: 3px;
+	text-align: center;
+	
+}
+.apar{
+	width: 100px;
+	height: 50px;
+	border-radius: 20px;
+	text-align: center;
+	size: cover;
+}
+.one{
+	font-size: 40px;
+	color: black!important;
+
+}
+.sista{
+	font-size: 20px;
+	font-family: solid;
+	letter-spacing: 1px;
+}
+.mo{
+	border-radius: 8px;
+	min-width: 60%;
+	min-height: 60%;
+	width: 100%;
+}
+.mr{
+	background-image: url(../image/BG2.jpg);
+	background-image: fixed;
+	background-size: cover;
+}
+.the{
+	font-size: 38px;
+	letter-spacing: 1px;
+	color: white!important;
+	font-family: solid;
+
+}
+.think{
+	font-size: 32px;
+	color: white!important;
+	font-family: solid;
+}
+.d{
+	border-radius: 9px;
+	width: 70%;
+	height: 70%;
+	min-width: 50%;
+	min-height: 50%;
+}
+.with{
+	font-size: 20px;
+	letter-spacing: 2px;
+	font-family: solid;
+
+}
+.join{
+	font-size: 38px;
+	font-family: solid;
+	letter-spacing: 2px;
+
+}
+.hm{
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-family: solid;
+	font-size: 20px;
+}
+.bed{
+	width: 100%;
+	min-width: 50%;
+	min-height: 50%;
+	border-radius: 8px;
+	size: cover;
+
+}
+.FOOT{
+	color: orange;
+	font-size: 20px;
+	letter-spacing: 3px;
+	font-family: solid;
+	border-radius: 126px;
+	min-width: 18%;
+	max-width: 68%;
+	width: fixed;
+}
+
+.te{
+	font-size: 26px;
+	letter-spacing: 5px;
+	font-family: solid;
+	color: orange!important;
+	text-align: center;
+
+}
+.tex{
+	font-size: 22px;
+	letter-spacing: 4px;
+	color: black;
+	font-family: solid;
+
+}
+.bz{
+	background: black;
+}
+
+.last{
+	color: white;
+	letter-spacing: 3px;
+	font-size: 13px;
+	font-family: solid;
+	text-align: center;
+
+}
+.sa{
+	
+   color: orange!important;
+   font-size: 30px;
+   font-family:fantasy;
+   text-align: center;
+   position: relative;
+   bottom: 80px;
+   text-transform: uppercase;
+
+}
+
+.ceo{
+	font-size: 17px;
+	font-family: solid;
+    text-align: center;
+    position: relative;
+    bottom: 84px;
+    color: white;
+    text-transform: uppercase;
+
+}
+
+.depak{
+	width: 100%;
+	height: 78%;
+	
+}

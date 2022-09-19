@@ -1,0 +1,199 @@
+.back{ background-color: #0000009c!important;
+      
+     }
+
+  .rm{
+  	background-image: url(../image/form.jpg);
+  	background-size: cover;
+  	width: 100%;
+  }   
+
+  .fo{
+  	color: olivedrab!important;
+  	font-family:fantasy;
+  	letter-spacing: 5px;
+  	font-size: 65px;
+  	font-style: oblique!important;
+  	text-transform: uppercase;
+  	text-shadow: orange;
+  }
+
+.kal{
+	background-image: url(../image/man.jpg);
+	background-image: fixed;
+	background-size: cover;
+}
+.log{
+	text-transform: uppercase;
+	font-size: 45px;
+	font-size: fixed;
+	font-family: solid;
+	color: black!important;
+}
+.mar{
+	font-family: solid;
+	letter-spacing: 3px;
+	text-align: center;
+	
+}
+.apar{
+	width: 100px;
+	height: 50px;
+	border-radius: 20px;
+	text-align: center;
+	size: cover;
+}
+.men{
+	border-radius: 100px;
+	width: 90%;
+	min-width: 70%;
+	max-width: 98%;
+	height: 50%;
+	min-height: 60%;
+	max-height: 80%;
+}
+
+.ses{
+	color: white!important;
+	background-color: blue!important;
+	text-transform: uppercase;
+	font-size: 38px;
+	font-family: solid;
+	border-radius: 10px;
+}
+.mon{
+	color:black!important;
+	letter-spacing: 1px;
+	text-align: justify;
+	text-align: center;
+
+}
+
+.e{
+	font-size: 30px;
+	color: white!important;
+	text-transform: uppercase;
+	font-family: solid;
+
+
+}
+
+.c{
+     border-radius: 20px;
+     color: white!important;
+     background-color: blue!important
+}
+
+.d{
+	
+	  padding: 21px 103px;   
+	    padding: 21px 103px;
+       background: #003264;
+       color: white;
+       border-radius: 21px;    
+       padding: 21px 103px;
+       background: #003264;
+       color: white;
+       border-radius: 21px;
+}
+
+.FOOT{
+	color: orange;
+	font-size: 20px;
+	letter-spacing: 3px;
+	font-family: solid;
+	border-radius: 126px;
+	min-width: 18%;
+	max-width: 68%;
+	width: fixed;
+}
+
+.te{
+	font-size: 26px;
+	letter-spacing: 5px;
+	font-family: solid;
+	color: orange!important;
+	text-align: center;
+
+}
+.tex{
+	font-size: 22px;
+	letter-spacing: 4px;
+	color: black;
+	font-family: solid;
+
+}
+.bz{
+	background: black;
+}
+
+.last{
+	color: white!important;
+	letter-spacing: 3px;
+	font-size: 16px;
+	font-family: solid;
+	text-align: center;
+
+}
+.sa{
+	
+   color: orange!important;
+   font-size: 30px;
+   font-family:fantasy;
+   text-align: center;
+   position: relative;
+   bottom: 80px;
+   text-transform: uppercase;
+
+}
+
+.ceo{
+	font-size: 17px;
+	font-family: solid;
+    text-align: center;
+    position: relative;
+    bottom: 84px;
+    color: white;
+    text-transform: uppercase;
+
+}
+
+		.LOGIN{
+			background: whitesmoke;
+			color: solid black;
+			background: url(../image/bb1.jpg);
+		}
+
+		.LOGIN f{
+			border-radius: 15 0px;
+			background: green;
+		}
+		
+		.c{
+			width: 300px;
+			height: 40px;
+			font-style: initial;
+			
+			background:#673ab770;
+			color: blue ;
+		}
+		.button1{
+			    padding: 14px 33px;
+			    background: #003264;
+               color: white;
+                border-radius: 10px;
+                text-transform: uppercase;
+		}
+
+		.c b{
+			font-weight: 200;
+			font-size: 10px;
+			background: green;
+			color: red;
+		}
+
+		.depak{
+	width: 100%;
+	height: 78%;
+	
+}
