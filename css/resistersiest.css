@@ -4,7 +4,7 @@
      }
 
 .bg{
-	background-image: url(../image/man.jpg);
+	background-image: url(../image/form.jpg);
 	background-size: cover;
 	background-image: fixed;
 }
@@ -144,6 +144,7 @@
 }
 .depak{
 	width: 100%;
-	height: 78%;
+	height: 47%;
+	height: auto;
 	
 }

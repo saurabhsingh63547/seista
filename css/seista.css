@@ -10,6 +10,8 @@
 .home{
 	background-image: url(../image/new.jpg);
 	width: 100%;
+	width: auto;
+	height: auto;
 	background-size: cover;
 	background-image: fixed;
 }
